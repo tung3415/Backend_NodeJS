@@ -15,5 +15,8 @@
     "url": "https://github.com/tung3415/Backend_NodeJS/issues"
   },
   "homepage": "https://github.com/tung3415/Backend_NodeJS#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
