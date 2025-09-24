@@ -22,8 +22,7 @@ app.use(express.static("public"));
 // config routes
 webRoutes(app);
 
-//
-getConnection();
+// connect DataBase
 
 app.listen(PORT, () => {
   console.log(`My app is running on port: ${PORT}`);
